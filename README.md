@@ -1,1 +1,2 @@
 # DTSA-5510-Unsupervised-Algorithms-in-Machine-Learning-Final-Project
+In this project, we apply unsupervised machine learning techniques to detect fraudulent credit card transactions in a real-world dataset. The dataset, sourced from a European cardholder over two days in 2013, includes 284,807 transactions with only 492 fraud cases-making fraud just 0.17% of the data. This extreme class imbalance makes traditional supervised learning challenging and motivates the use of unsupervised anomaly detection methods.
